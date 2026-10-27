@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "ARCHLEVELSMP.aternos.me",
+    "port": 58950,
     "version": "",
     "try-creative": false
   },
